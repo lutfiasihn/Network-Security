@@ -1,4 +1,7 @@
 # Network-Security
-This is 1st assignment of Network Security. (Nurul Lutfiasih 1144022 - D4TI3C Politeknik Pos Indonesia)
+This is all about assignment of Network Security
 
-Blog Link : https://wiwilutfiasih.wordpress.com/2016/10/17/network-security/
+ Nama | NPM | Kelas |
+ ------ | ------- | ----------|
+ Nurul Lutfiasih | 1144022 | D4 TI 3C |
+
